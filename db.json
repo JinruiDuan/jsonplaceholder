@@ -65,8 +65,10 @@
 
     },
 
-    "action":{
-        "type": "puckup",
-        "orderId": "A0000"
-    }
+    "actions":[
+        { 
+            "type": "puckup",
+            "orderId": "A0000"
+        }
+    ]
 }
