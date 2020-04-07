@@ -67,7 +67,7 @@
 
     "actions":[
         { 
-            "type": "puckup",
+            "type": "pickup",
             "orderId": "A0000"
         }
     ]
