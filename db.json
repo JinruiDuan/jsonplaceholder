@@ -66,6 +66,9 @@
     },
 
     "actions":[
-
+        { 
+            "type": "pickup",
+            "orderId": "A0000"
+        }
     ]
 }
